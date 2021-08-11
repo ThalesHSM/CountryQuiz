@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { HandleRandomQuestion } from "../api/axios";
+import { HandleRandomQuestion } from "../../api/axios";
 
 import {
   StyledDiv,
